@@ -1,4 +1,4 @@
-# DSP-Lab-1
+# DSP Lab 1
 
 
 
